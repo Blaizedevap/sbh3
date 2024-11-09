@@ -177,3 +177,14 @@ footer ol li{
 #pop1-2{
     border: 3px solid bl;
 }
+
+
+@media(max-width:590px){
+
+    #prod img{
+        width: 100px;
+        /* border: 4px solid yellow; */
+        
+    
+    }
+}
